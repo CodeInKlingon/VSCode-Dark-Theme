@@ -1,0 +1,22 @@
+{
+	"name": "dark-theme-rises",
+    "displayName": "Dark Theme Rises",
+	"description": "An enhanced dark theme.",
+	"publisher": "CodeInKlingon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme Rises",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme Rises-color-theme.json"
+            }
+        ]
+    }
+}
