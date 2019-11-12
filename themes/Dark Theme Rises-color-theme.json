@@ -33,6 +33,9 @@
 		"sideBarSectionHeader.foreground":"#b5b7b9" ,
 
 		"activityBar.background": "#0d0e0f",
+
+		"titleBar.activeBackground": "#121416",
+		"titleBar.activeForeground": "#d4d4d4"
 	},
 	"workbench.colorCustomizations": {
 

@@ -1,0 +1,8 @@
+{
+	"workbench.colorTheme": "Dark Theme Rises",
+	"workbench.colorCustomizations": {
+		// Production Environment Distinguishment
+		"titleBar.activeBackground": "#121416",
+		"titleBar.activeForeground": "#d4d4d4"
+	}
+}
