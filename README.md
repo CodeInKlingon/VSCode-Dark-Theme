@@ -1,1 +1,1 @@
-Dark ATheme with high saturation and blue overall hue
+A dark theme with high saturation and blue overall hue
